@@ -1,5 +1,5 @@
 # A Discord.js Chat Bot
-This is a simple chatbot for Discord.js clients using the [cleverbot.io API](https://cleverbot.io/).  
+This is a simple chatbot for Discord.js clients using the [cleverbot.io API](https://cleverbot.io/). If you need help or just want to chat, feel free to [join the discord server](https://discordapp.com/invite/FKYrX4X).    
 
 # Installation
 1. Get your API User and Key from https://cleverbot.io/keys
