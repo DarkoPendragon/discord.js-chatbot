@@ -6,6 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkoPendragon/discord.js-chatbot"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkoPendragon/discord.js-chatbot/issues"
+  },
+  "homepage": "https://github.com/DarkoPendragon/discord.js-chatbot",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "chat",
+    "bot",
+    "chatbot",
+    "addon",
+    "plugin"
+  ],
   "author": "demisex",
   "license": "ISC",
   "dependencies": {

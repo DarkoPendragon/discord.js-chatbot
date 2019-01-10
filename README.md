@@ -1,3 +1,9 @@
+<div align="center">
+  <p>
+    <a href="https://nodei.co/npm/discord.js-chatbot
+/"><img src="https://nodei.co/npm/discord.js-chatbot.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
 # A Discord.js Chat Bot
 This is a simple chatbot for Discord.js clients using the [cleverbot.io API](https://cleverbot.io/). If you need help or just want to chat, feel free to [join the discord server](https://discordapp.com/invite/FKYrX4X).    
 
