@@ -1,0 +1,15 @@
+{
+  "name": "discord.js-chatbot",
+  "version": "1.0.0",
+  "description": "A simple chat bot for Discord.js clients, using the cleverbot.io api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "demisex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0"
+  }
+}
