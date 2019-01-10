@@ -4,10 +4,11 @@
 /"><img src="https://nodei.co/npm/discord.js-chatbot.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
-# A Discord.js Chat Bot
+
+# A Discord.js Chat Bot  
 This is a simple chatbot for Discord.js clients using the [cleverbot.io API](https://cleverbot.io/). If you need help or just want to chat, feel free to [join the discord server](https://discordapp.com/invite/FKYrX4X).    
 
-# Installation
+# Installation  
 1. Get your API User and Key from https://cleverbot.io/keys
 2. Have a [Discord app](https://discordapp.com/developers/applications/) setup and a bot token
 2. In your working directory: `npm i discord.js-chatbot --save`
